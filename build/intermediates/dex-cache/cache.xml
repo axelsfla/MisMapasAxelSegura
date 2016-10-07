@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_17abb673148fa3b5ae37981dff16c13c9160cfb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_2f59219b833622e102f05a34433c14da2bfc0cb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_b9a36c1f5016906d7191849d83e2d1a69692f9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_7a7e719a64e1be359d214cbccb36707ba04de566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_445f49c9092679d5a8fca79370f950e625634752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_8542fbfb900f560ed0b0389ed87f5edcbb0e876b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c802ed08da1f0764d587d5fbae59a472887ce81b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_b61c8ef823bd3769b2ca544e05dccb59a4c20d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_5696d7ca37ecf3273362c836ac0767a0bbfaab53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba180bf28041ceb0430dfd02826022dfb03a8dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_9f794feec42f6e2d6867a33c4eec3e94459107bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_5488d6b4d38359f95807cec53ec58c7bedfa00db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_9580e660bb06c18937285f55c1375d2a157e2724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_33f9bbd6027a149c32b6267722c64151e1fd7ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0aa42abe78031f3771945eb18f22b61c68f4c71d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_542c138c8f6f9bcee701d98ad07a7cd70bfaa9e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_407958ca85e183dd48128b14db72051caeda97c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1bc435ba839c19500c9fc5776b8e871106d639a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_6038ef644992689a23d62ed7717afde3828449fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_d333025f4578d42d257dba1c500929730a4732e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0ea46b15bab28ba85a56a1bf545ed749b0e4df4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_776402656d8ec0cc85c1f384a1401c16198f6a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="416381fb37a3fc39e6b3806319056dd3541b1ac1">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dd0e443d67531f358eb44f62791ead65bc5d97db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_22b35eac95950248d840c9a5ee697d64590a692e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5f0e0ff2eb88a074c4ec2dfb06ab0b1cfce74790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30f159dbf35837a1e8af2e5da678ea3fab6f224c">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d7397dc73e8018d0f3568e26df616f094d6e0205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_6136bd598dcbcd47c25412276cff0bc7938dddfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a14190581afc5fb059ac3ed79ddc0bbfe0a235b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_73d58b9302e0d787bf5493708592828b2e9987bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_18a7e729d9b5b9ef5d1c6f8bf178dffd7b1b3fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_547e9b0a7c363815d6648a93b83460e1567683ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_17b0c1de4d8b8ce93b1900023736a6858dcd91b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_1cdd0dcc3d7e4eae4f0295e1d662916d1698df16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_09081529b7ba7b786ae8d284c90b2591672958e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_14d7ad65899e8df4b2330453449410fa8d6ceb22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_65e709bbb7dcd77ba3887ce8a769864380aa8f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_bc3168cc602bd0d4fd18e8fe217c46a9cb867be7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_f4f1287e1d5c2818eac147734a24fbb93d5dbf2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_8cc084af40aff9e81b56f0dbffbb0d74afa9f633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ad70f6d32409b6c7fd5c2743c2c45b4eeb58d895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_941e1523e9a937df4afb673df9a7aecd7d630f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_0a48eacc94480d746428d475f4d12600212362b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_9d4c5045ed77003784dce57a9253cdc705c48405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a10d36863217d7ca03fa4e94abce3d9eb8e05cce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_84ccc15fa8e698ad5b39756c52f8eb8c82e9c9ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_1e237368627ba3a8282b52ce0f6b3633cb91ffea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_617d346d05bc2523ec6a777a6039c2c2fc5f96c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_3a28435da31ae66921af1915f6ca54fdefaa3661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_d3f8d998f379803b06d9334421a138be575146dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3fefa051467f0bf22314c6bdaec345046a72f836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_652ea72735f63d155b845f1910fe61fe5be44001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_bcc55305b4be744886449ff88e3771a5e3db1f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_50ae058d4caa44efc83afd594b4b55a7ac606283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ceda5c9e5ff3a22355f8ac5fce5717c04958f59d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_e69242bfcfa9d4809fecaec109b7eb539e0cf5cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_047e88ccdf9de379f27779463e16281f44e122a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1aaef2c64c4ec3ef6c3785c792f99f93107810dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9b177b7d5918246afa2e6db0186c361f353d6327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1f0f08243fa6a5dd322ce33bd1abafa8388c86ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_849cb72ac2db668952c27d8ef1d97ac6a4ffc29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_b56040b8835a9072a25a0e848c759c04f863e57c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_5434e67c551158e86f817d127fcf4c0bf9806b45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_90ac6f75ad184641149851fed124166bd7cd1db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_40984c3e4e1c87eb24886409685801d2e5b51189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_56979cfbf9f2766ad7b889ba445dde69eb9d4110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_06c73d4e98c7a096a54120591e01ab73669bcb89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_22a493a57ce29a925ce8fa25db55c92c667196fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_4a7d968989f1fc68aa966e2bb3e82f3bc66c8285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_46ad9207a51a74d6e24e01e80cdb37e3bd281fa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_019671db244c7d0fb1d6d9949f17f26eeca69cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\axel\Documents\Axel\Coursera\Tarea\MisMapas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_13918931b517e982178c548facf157a7b65ae298\classes.dex" />
+    </item>
+
+</items>
